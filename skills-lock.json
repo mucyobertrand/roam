@@ -1,0 +1,77 @@
+{
+  "version": 2,
+  "skills": {
+    "content-experimentation-best-practices": {
+      "source": "sanity-io/agent-toolkit",
+      "commit": "5cb78d3aed2f8068c012e30180168f3ccdc7bae2",
+      "sourceType": "github",
+      "skillPath": "skills/content-experimentation-best-practices/SKILL.md",
+      "computedHash": "7bdce53eb54950f5403c00931167c7fa0b33f0b4bd0eefc207d1043a36df626c"
+    },
+    "content-modeling-best-practices": {
+      "source": "sanity-io/agent-toolkit",
+      "commit": "5cb78d3aed2f8068c012e30180168f3ccdc7bae2",
+      "sourceType": "github",
+      "skillPath": "skills/content-modeling-best-practices/SKILL.md",
+      "computedHash": "327f5f5e44e831a74b9541ed2dccb4df3d687f54c99de752c74e5cee9c406e7b"
+    },
+    "create-agent-with-sanity-context": {
+      "source": "sanity-io/context",
+      "commit": "9cfa9690567fa8b1c5b816cba853fb7cd2101517",
+      "sourceType": "github",
+      "skillPath": "skills/create-agent-with-sanity-context/SKILL.md",
+      "computedHash": "0d213f36146cd0a30bc33f76841216bac1968e1fa2daf35e42fcc096af50323e"
+    },
+    "dial-your-context": {
+      "source": "sanity-io/context",
+      "commit": "9cfa9690567fa8b1c5b816cba853fb7cd2101517",
+      "sourceType": "github",
+      "skillPath": "skills/dial-your-context/SKILL.md",
+      "computedHash": "52e3ba2c6d58f73e801b3f054330b5abf8fa500c95a647fa632aa55e9e11fd53"
+    },
+    "expo-animation": {
+      "source": "expo/skills",
+      "sourceType": "github",
+      "skillPath": "plugins/expo/skills/expo-animation/SKILL.md",
+      "computedHash": "7f28a298611a9440484836c2d02366bff5cdbe4c1c4cc2a1965ffe2eb075ffae"
+    },
+    "expo-data-fetching": {
+      "source": "expo/skills",
+      "sourceType": "github",
+      "skillPath": "plugins/expo/skills/expo-data-fetching/SKILL.md",
+      "computedHash": "5566b445229ee4751aca90f0f08e06af0c53aa16d2227f20e9137c264cb9bc6e"
+    },
+    "expo-design-system": {
+      "source": "expo/skills",
+      "sourceType": "github",
+      "skillPath": "plugins/expo/skills/expo-design-system/SKILL.md",
+      "computedHash": "e2fe37e041433e6f73702cc7dd8e8f2736c5e6fa62ce32cccc630c5f4ce76309"
+    },
+    "expo-project-structure": {
+      "source": "expo/skills",
+      "sourceType": "github",
+      "skillPath": "plugins/expo/skills/expo-project-structure/SKILL.md",
+      "computedHash": "1d8d0089c3f367cda801f2b675d8df6b773806b62ffb8d88b390bed9f10fa607"
+    },
+    "expo-router": {
+      "source": "expo/skills",
+      "sourceType": "github",
+      "skillPath": "plugins/expo/skills/expo-router/SKILL.md",
+      "computedHash": "9c3a05a145ceec25ccca5c733b9403b03c7174c60c48c017009c2c5a1a68c8cb"
+    },
+    "sanity-best-practices": {
+      "source": "sanity-io/agent-toolkit",
+      "commit": "5cb78d3aed2f8068c012e30180168f3ccdc7bae2",
+      "sourceType": "github",
+      "skillPath": "skills/sanity-best-practices/SKILL.md",
+      "computedHash": "9339fb536e4b569a3f645852d3ac6aea2c4ac878ce7856e23b91e4ccf61d1432"
+    },
+    "shape-your-agent": {
+      "source": "sanity-io/context",
+      "commit": "9cfa9690567fa8b1c5b816cba853fb7cd2101517",
+      "sourceType": "github",
+      "skillPath": "skills/shape-your-agent/SKILL.md",
+      "computedHash": "ba6ebf134a08a45531963fdae5d2b896e2b647ce425a2a665289965fda06a03e"
+    }
+  }
+}

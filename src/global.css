@@ -1,9 +1,146 @@
-:root {
-  --font-display:
-    Spline Sans, Inter, ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji,
-    Segoe UI Symbol, Noto Color Emoji;
-  --font-mono:
-    ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace;
-  --font-rounded: 'SF Pro Rounded', 'Hiragino Maru Gothic ProN', Meiryo, 'MS PGothic', sans-serif;
-  --font-serif: Georgia, 'Times New Roman', serif;
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/preflight.css" layer(base);
+@import "tailwindcss/utilities.css";
+
+@import "nativewind/theme";
+
+/*
+ * Roam design tokens — the only place visual values live.
+ * Source: assets/prompt-imgs/design.png. Values marked "est." were estimated from the image.
+ * Light mode only (app.json userInterfaceStyle: "light").
+ */
+@theme {
+  /* ---- Colors (Tailwind defaults removed so only brand tokens exist) ---- */
+  --color-*: initial;
+  --color-primary: #ffc629; /* primary actions, active states */
+  --color-primary-soft: #fff6d6; /* est. "Guest favorite" badge */
+  --color-lavender: #c9b4ff; /* secondary actions, highlights, focus */
+  --color-lavender-soft: #f3eeff; /* est. focused field, policy card */
+  --color-lavender-strong: #7c5cff; /* est. icons on lavender-soft */
+  --color-lavender-tile: #e6ddff; /* est. icon tile on the policies card, property-details.png */
+  --color-ink: #0b0b1a; /* headings, primary text */
+  --color-ink-muted: #6b7280; /* body, secondary text */
+  --color-ink-subtle: #9aa0bc; /* est. brand tagline (sampled from design.png) */
+  --color-placeholder: #9ca3af; /* est. input placeholder */
+  --color-surface: #ffffff; /* cards, sheets, modals */
+  --color-surface-muted: #f4f5f7; /* app background, input fields */
+  --color-border: #e5e7eb; /* dividers, borders */
+  --color-glass: rgba(255, 255, 255, 0.7); /* tab bar, glass surfaces */
+  --color-scrim: rgba(11, 11, 26, 0.45); /* est. dark glass on photos (location chip) */
+  --color-glass-border: rgba(255, 255, 255, 0.5); /* est. hairline on dark glass */
+  --color-scrim-strong: #0b0b1abf; /* est. bottom of the stay-card photo gradient (75% ink), home.png */
+  --color-success: #16a34a; /* est. */
+  --color-success-soft: #e8f5ec; /* est. */
+  --color-danger: #e11d48; /* est. */
+  --color-danger-soft: #fdecef; /* est. */
+  --color-info: #3b5bdb; /* est. */
+  --color-info-soft: #e8eeff; /* est. */
+
+  /* ---- Font families: one family per weight (font-bold does not switch files) ---- */
+  /* Not --font-sans: nativewind/theme pins that to the system font per platform on native. */
+  --font-jakarta-regular: "PlusJakartaSans_400Regular";
+  --font-jakarta-medium: "PlusJakartaSans_500Medium";
+  --font-jakarta-semibold: "PlusJakartaSans_600SemiBold";
+  --font-jakarta-bold: "PlusJakartaSans_700Bold";
+  --font-jakarta-extrabold: "PlusJakartaSans_800ExtraBold";
+
+  /*
+   * ---- Type ramp: size / line height (/ tracking) ----
+   * Line heights MUST be unitless ratios (target px ÷ size). On native,
+   * react-native-css multiplies the line-height number by the font size, so a
+   * px value like 56px becomes 56 × 56 = 3136 and the text renders off-screen.
+   */
+  --text-*: initial;
+  --text-display: 56px;
+  --text-display--line-height: 1; /* 56 */
+  --text-display--letter-spacing: -1px; /* est. */
+  --text-hero: 40px; /* onboarding/auth screen titles, measured from onboarding.png (ExtraBold) */
+  --text-hero--line-height: 1.1; /* 44: at 1.0 (the mock) Android clips descenders on the last line */
+  --text-hero-sm: 34px; /* auth screen titles, measured from auth.png (ExtraBold) */
+  --text-hero-sm--line-height: 1.117647; /* 38 */
+  --text-hero-xs: 30px; /* est. stay title, property-details.png (ExtraBold) */
+  --text-hero-xs--line-height: 1.133334; /* 34 */
+  --text-heading-lg: 32px;
+  --text-heading-lg--line-height: 1.1875; /* 38 */
+  --text-heading: 28px;
+  --text-heading--line-height: 1.214286; /* 34 */
+  --text-tagline: 20px; /* est. brand lockup: 0.43 × the lg wordmark height */
+  --text-tagline--line-height: 1.2; /* 24 */
+  --text-title: 18px; /* est. */
+  --text-title--line-height: 1.333334; /* 24 */
+  --text-body: 16px;
+  --text-body--line-height: 1.5; /* 24 */
+  --text-button: 17px;
+  --text-button--line-height: 1.294118; /* 22 */
+  --text-caption: 14px;
+  --text-caption--line-height: 1.428572; /* 20 */
+  --text-price: 22px; /* est. result price, search.png (ExtraBold) */
+  --text-price--line-height: 1.272727; /* 28 */
+  --text-price-lg: 28px; /* est. stay price bar, property-details.png (ExtraBold) */
+  --text-price-lg--line-height: 1.214286; /* 34 */
+  --text-stat: 24px; /* est. profile stats ("12", "4.9"), profile.png (ExtraBold) */
+  --text-stat--line-height: 1.25; /* 30 */
+  --text-label: 12px; /* est. */
+  --text-label--line-height: 1.333334; /* 16 */
+
+  /* ---- Spacing: 4-pt grid, named by size ---- */
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 12px;
+  --spacing-lg: 16px;
+  --spacing-xl: 20px; /* screen edge padding (est.) */
+  --spacing-2xl: 24px;
+  --spacing-3xl: 32px;
+  --spacing-4xl: 48px;
+
+  /* ---- Control sizes (est.) ---- */
+  --spacing-control: 56px; /* Button md, TextField */
+  --spacing-control-sm: 44px; /* Button sm, Chip md */
+  --spacing-icon-button: 48px; /* IconButton md, Stepper */
+  --spacing-icon-button-sm: 36px; /* IconButton sm, Chip sm */
+  --spacing-icon-xs: 16px;
+  --spacing-icon-sm: 20px;
+  --spacing-icon-md: 24px;
+  --spacing-field: 60px; /* TextField with a stacked label (auth.png) */
+  --spacing-indicator: 5px; /* est. page indicator dash height */
+  --spacing-sheet-cap: 80px; /* height of the onboarding sheet's curved top (sheet-edge.svg) */
+  --spacing-sheet-edge: 72px; /* where that curve meets the right side; the plain body starts here */
+  --spacing-wordmark-sm: 16px; /* est. auth header */
+  --spacing-wordmark-md: 28px; /* est. onboarding top-left */
+  --spacing-wordmark-lg: 48px; /* brand lockup, the asset's native @1x height */
+  --spacing-wordmark-home: 34px; /* est. home header, home.png */
+  --spacing-avatar-lg: 84px; /* est. home header avatar, home.png */
+  --spacing-avatar-xl: 104px; /* est. profile card avatar, profile.png */
+  --spacing-search-tile-w: 60px; /* est. home search tile beside the headline */
+  --spacing-search-tile-h: 84px; /* est. */
+  --spacing-stay-card: 264px; /* est. stay card photo height, home.png */
+  --spacing-control-md: 52px; /* est. search header back button and field, search.png */
+  --spacing-result-photo-w: 140px; /* est. search result photo, search.png */
+  --spacing-result-photo-h: 148px; /* est. */
+  --spacing-hero-button: 60px; /* est. round buttons on the stay photo, host photo, property-details.png */
+  --spacing-badge-pill: 24px; /* Badge pill height: py-xs ×2 + label line height (16) */
+
+  /* ---- Radius ---- */
+  --radius-*: initial;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px; /* inputs, alerts, policy cards (est.) */
+  --radius-xl: 24px; /* cards (est.) */
+  --radius-full: 9999px; /* pills: buttons, chips, icon buttons, segmented control */
+
+  /* Tailwind's default shadow scale is removed; ours are the utilities below. */
+  --shadow-*: initial;
+}
+
+/*
+ * ---- Shadows (est., very soft) ----
+ * Literal box-shadow utilities, not --shadow-* theme tokens: Tailwind builds theme
+ * shadows through --tw-shadow variables, which react-native-css drops on native
+ * (the shadow compiles to transparent).
+ */
+@utility shadow-card {
+  box-shadow: 0 1px 2px rgba(11, 11, 26, 0.04), 0 4px 16px rgba(11, 11, 26, 0.06);
+}
+@utility shadow-raised {
+  box-shadow: 0 8px 24px rgba(11, 11, 26, 0.12);
 }

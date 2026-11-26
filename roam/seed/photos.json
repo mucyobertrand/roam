@@ -1,0 +1,711 @@
+{
+  "stays": {
+    "modern-cabin-lake-arrowhead": [
+      {
+        "url": "https://images.unsplash.com/photo-1782392455081-a09db8267afb?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/contemporary-wooden-house-in-a-lush-forest-setting-FoZ0FeB2VFg",
+        "alt": "Wooden cabin with large windows in a pine forest"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1631630259742-c0f0b17c6c10?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-room-with-a-stove-and-a-chair-in-it-bQTVoJHrkO0",
+        "alt": "A room with a stove and a chair in it"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1696860740767-f4211c9209f4?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-fire-place-Qry84CsaA9o",
+        "alt": "A living room filled with furniture and a fire place"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1728649072511-bd946044a63b?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-living-room-with-a-wood-burning-stove-in-it-kNFOoORtrys",
+        "alt": "A living room with a wood burning stove in it"
+      }
+    ],
+    "a-frame-monte-rio": [
+      {
+        "url": "https://images.unsplash.com/photo-1575403071235-5dcd06cbf169?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/brown-and-grey-wooden-cabin-surrounded-by-trees-9-qFzV9a2Zc",
+        "alt": "Wooden A-frame cabin among tall trees"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1762245273803-60affd991e19?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/people-sitting-at-a-wooden-table-inside-a-rustic-cabin-fbyVlHk5EBE",
+        "alt": "People sitting at a wooden table inside a rustic cabin"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1697807713040-b5fb60d6f012?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-wooden-table-and-chairs-in-a-room-Uoh1UV2cAEs",
+        "alt": "A wooden table and chairs in a room"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1631941392209-70cad44ecfb7?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-living-room-with-a-fire-place-and-a-chair-_k0Pyd1uMEc",
+        "alt": "A living room with a fire place and a chair"
+      }
+    ],
+    "creekside-cabin-tahoe": [
+      {
+        "url": "https://images.unsplash.com/photo-1697807650304-907257330a3e?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-small-cabin-with-a-deck-in-the-woods-kiv1ggvkgQk",
+        "alt": "Small cabin with a deck in the woods"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1680703486830-1b5af60635d7?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-fire-place-D-IPwXyS9J4",
+        "alt": "A living room filled with furniture and a fire place"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1698933787134-af2d451985c7?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-living-room-with-a-fire-place-inside-of-it-f_6yPIgDxxs",
+        "alt": "A living room with a fire place inside of it"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1645242075656-e4e435b7a5f5?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-fire-place-vvA1qr8RG34",
+        "alt": "A living room filled with furniture and a fire place"
+      }
+    ],
+    "log-cabin-big-bear": [
+      {
+        "url": "https://images.unsplash.com/photo-1611849793043-e080fc18205e?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/white-and-green-wooden-house-surrounded-by-trees-covered-with-snow-during-daytime-p5NmLHnNFtA",
+        "alt": "White and green wooden house surrounded by trees covered with snow during daytime"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1703922994280-ff6c28dde6fc?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-small-cabin-in-the-middle-of-a-snowy-forest-59x-2BBUnnQ",
+        "alt": "A small cabin in the middle of a snowy forest"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1776287977353-5bcfc3a6f793?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/rustic-wooden-cabin-with-a-bench-in-snowy-forest-1PWwHh08N1A",
+        "alt": "Rustic wooden cabin with a bench in snowy forest"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1768779605486-12974c3b1172?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/rustic-log-cabin-with-a-small-shed-and-wooden-fence-fxP5RC2-wLc",
+        "alt": "Rustic log cabin with a small shed and wooden fence"
+      }
+    ],
+    "cliffside-cottage-mendocino": [
+      {
+        "url": "https://images.unsplash.com/photo-1612368630150-fa29d4fe8ef8?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/white-and-black-house-on-cliff-EeH00AGBk0s",
+        "alt": "White and black house on cliff"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1606312563142-6647e31eaf6b?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/brown-rocky-mountain-beside-blue-sea-under-blue-sky-during-daytime-LmTgQa7pqw0",
+        "alt": "Brown rocky mountain beside blue sea under blue sky during daytime"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1724863613492-6b3abf65100e?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-view-of-the-ocean-from-the-top-of-a-hill-8qpxkZ8epIA",
+        "alt": "A view of the ocean from the top of a hill"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1674775705537-3eef5e046fed?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-view-of-the-ocean-from-a-cliff-BRNsR9le56w",
+        "alt": "A view of the ocean from a cliff"
+      }
+    ],
+    "ski-chalet-breckenridge": [
+      {
+        "url": "https://images.unsplash.com/photo-1550503736-c1a2c9033c03?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/brown-wooden-houses-QOuV-iMpL_w",
+        "alt": "Brown wooden houses"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1610803523148-a0052fa341bb?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/brown-wooden-house-on-snow-covered-mountain-during-daytime-BTQWx51keUY",
+        "alt": "Brown wooden house on snow covered mountain during daytime"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1515496281361-241a540151a5?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-group-of-wooden-buildings-sitting-on-top-of-a-snow-covered-slope-JHyncp5UTJs",
+        "alt": "A group of wooden buildings sitting on top of a snow covered slope"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1546706442-373624e9c90b?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/houses-near-snow-mountain-56Q7NasRWrc",
+        "alt": "Houses near snow mountain"
+      }
+    ],
+    "river-cabin-leavenworth": [
+      {
+        "url": "https://images.unsplash.com/photo-1792243755224-6c934bce44ea?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/river-reflecting-pine-forest-and-cabin-8yaQ8BkIEbA",
+        "alt": "A calm river reflecting a dense pine forest and a small wooden cabin at golden hour"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1767453385269-9f55af80878e?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/small-village-nestled-in-a-lush-green-mountain-valley-xAt2VBAp9_8",
+        "alt": "Small village nestled in a lush green mountain valley"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1728404259075-209cfb5bb89c?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-wood-burning-stove-inside-of-a-wooden-cabin-sDqyw1c5xaM",
+        "alt": "A wood burning stove inside of a wooden cabin"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1712659606957-b7395ba9ebb2?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-wooden-sauna-with-a-window-and-a-stack-of-rocks-nT8eHVXHw5o",
+        "alt": "A wooden sauna with a window and a stack of rocks"
+      }
+    ],
+    "mountain-view-cabin-gatlinburg": [
+      {
+        "url": "https://images.unsplash.com/photo-1783295541987-4959a88e51db?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/mountain-forest-view-from-a-rustic-wooden-cabin-porch-iAjuPhEiVQc",
+        "alt": "Mountain forest view from a rustic wooden cabin porch"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1754962850068-8e1da96a8937?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/rocky-mountain-peak-viewed-through-wooden-beams-395K6UoLDDU",
+        "alt": "Rocky mountain peak viewed through wooden beams"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1659869590159-5b9c143f44d2?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-wooden-railing-overlooking-a-forest-NDSCjqntaSI",
+        "alt": "A wooden railing overlooking a forest"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1766486464940-5efb51bd5bc8?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/rolling-hills-and-green-fields-under-a-cloudy-sky-VrH7sabRIG0",
+        "alt": "Rolling hills and green fields under a cloudy sky"
+      }
+    ],
+    "blue-beach-house-cape-may": [
+      {
+        "url": "https://images.unsplash.com/photo-1775053383038-5e248d3182a7?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-light-blue-beach-house-with-white-trim-and-railings-X2fsKFvn5gM",
+        "alt": "Light blue beach house with white trim"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1728649054288-61f332ee389b?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-fire-place-qdavoiFWGQc",
+        "alt": "A living room filled with furniture and a fire place"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1720087448033-db1904db294b?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/an-empty-room-with-white-walls-and-cabinets--LxsAkmUYbI",
+        "alt": "An empty room with white walls and cabinets"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1617048400527-e6ab223281e1?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/white-chairs-and-table-in-white-room-ZrHt5qCudQE",
+        "alt": "White chairs and table in white room"
+      }
+    ],
+    "dune-house-montauk": [
+      {
+        "url": "https://images.unsplash.com/photo-1785202761458-77f267ec9303?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/elegant-beach-house-overlooking-sandy-dunes-at-sunset-BeDRKfU91BI",
+        "alt": "Beach house overlooking sand dunes at sunset"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1760067537620-6aaab015fba5?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/living-room-with-sofa-tv-and-indoor-plants-U8oMMM6FRsE",
+        "alt": "Living room with sofa, tv, and indoor plants"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1760067538612-c0ecd3bc3d3a?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/modern-living-room-with-large-couch-and-indoor-plants-DY7wJD6Ly2s",
+        "alt": "Modern living room with large couch and indoor plants"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1790276317950-cd0cad99655d?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/ocean-view-from-modern-living-space-_LBE5cozDdE",
+        "alt": "View of the ocean and infinity pool from a modern indoor living space"
+      }
+    ],
+    "beach-house-outer-banks": [
+      {
+        "url": "https://images.unsplash.com/photo-1615571022219-eb45cf7faa9d?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/people-on-beach-during-daytime-_u8KhAZRGHs",
+        "alt": "People on beach during daytime"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1544143086-828f66ac3945?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/five-assorted-color-2-storey-houses-aerb5gwZ4vg",
+        "alt": "Five assorted-color 2-storey houses"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1511840636560-acee95b3a83f?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/house-surrounded-with-trees-oSIuIEZZ6v0",
+        "alt": "House surrounded with trees"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1511840831832-3efd661c1d0f?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/white-and-gray-wooden-house-near-road-9mWADnnhpL8",
+        "alt": "White and gray wooden house near road"
+      }
+    ],
+    "shingle-cottage-wellfleet": [
+      {
+        "url": "https://images.unsplash.com/photo-1686950429623-abb1ef6ea8e8?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-house-sitting-on-top-of-a-sandy-beach-next-to-the-ocean-SfBcl6RMQvs",
+        "alt": "A house sitting on top of a sandy beach next to the ocean"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1484301548518-d0e0a5db0fc8?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/photography-of-grey-white-and-brown-wooden-house-interior-with-three-brown-wooden-windsor-chairs-beside-brown-hammock-with-glass-windows-mdHRaq_pwsI",
+        "alt": "Photography of grey, white, and brown wooden house interior with three brown wooden Windsor chairs beside brown hammock with glass windows"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1592967050781-55089b590a59?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/white-plastic-chair-beside-brown-wooden-cabinet-j-eb6l2S9NY",
+        "alt": "White plastic chair beside brown wooden cabinet"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1630437844256-741d07a3d4f2?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/woman-in-white-shirt-sitting-on-white-wooden-bench-qFap8kIRdbI",
+        "alt": "Woman in white shirt sitting on white wooden bench"
+      }
+    ],
+    "surf-bungalow-hanalei": [
+      {
+        "url": "https://images.unsplash.com/photo-1569873182938-b170be19779f?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/landscape-photography-of-houses-under-a-cloudy-sky-during-daytime-xfwFn5LHA8w",
+        "alt": "Landscape photography of houses under a cloudy sky during daytime"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559414131-b0aa53919648?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/person-on-brown-hammock-with-steel-base-across-body-of-water-v41a6J4Zrs4",
+        "alt": "Person on brown hammock with steel base across body of water"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1579737834653-10a16d9be79e?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/brown-wooden-gazebo-near-body-of-water-during-daytime-B1UtwAqpdZM",
+        "alt": "Brown wooden gazebo near body of water during daytime"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1638396243368-efd7781ded5b?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/an-aerial-view-of-a-beach-with-a-lot-of-trees-JheMrnD9plU",
+        "alt": "An aerial view of a beach with a lot of trees"
+      }
+    ],
+    "surf-shack-santa-cruz": [
+      {
+        "url": "https://images.unsplash.com/photo-1685753381751-465b6739d7a3?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-house-with-palm-trees-and-a-man-on-a-balcony-_i1wxABYpc8",
+        "alt": "A house with palm trees and a man on a balcony"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1498457764404-1790a9bbc781?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/gazebos-at-beach-resort-mqVx8YtLOwo",
+        "alt": "Gazebos at beach resort"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1750184069333-e1f0fef7c1cd?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/surfboards-stand-near-a-beach-shack-tBVdYIhi6W4",
+        "alt": "Surfboards stand near a beach shack"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1780148471868-e155f550dcd1?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/two-gazebos-and-a-palm-tree-by-the-ocean-P09L0jAmhSQ",
+        "alt": "Two gazebos and a palm tree by the ocean"
+      }
+    ],
+    "gulf-beach-house-port-aransas": [
+      {
+        "url": "https://images.unsplash.com/photo-1793891546432-447229168584?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/lounge-chairs-by-tropical-resort-pool-TVvfTUQiT54",
+        "alt": "Two lounge chairs on a wooden deck beside a swimming pool at a tropical resort"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1793891703750-e289659d9ff0?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/swimming-pool-overlooking-tropical-beach-JSbe7rUvGJA",
+        "alt": "A swimming pool on a terrace overlooking a beach with palm trees under a clear blue sky"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1790276319109-d6b4fdeb9073?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/modern-white-villa-on-coast-VnLxZi8cKa0",
+        "alt": "Aerial view of a modern white villa with solar panels on the coast"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1790276319222-9425a325ccc6?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/swimming-pool-with-white-lounge-chairs-kLejR5RPiQY",
+        "alt": "An aerial view of a swimming pool with white lounge chairs on a patio"
+      }
+    ],
+    "skyline-loft-chicago": [
+      {
+        "url": "https://images.unsplash.com/photo-1771287490603-fbf9b6211cc3?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/modern-living-room-with-large-window-and-city-view-keYaaAL4aho",
+        "alt": "Modern living room with a large window and city view"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1776348065117-02285a905b0b?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/modern-bedroom-with-desk-bed-and-city-view-f_mWO1Spf4w",
+        "alt": "Modern bedroom with desk, bed, and city view"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1776348065025-acc32a51f53c?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/modern-bedroom-with-a-desk-and-city-view-t8kYx7Xvy0U",
+        "alt": "Modern bedroom with a desk and city view"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1776348065068-476a708a2d3a?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/modern-bedroom-with-large-window-and-city-view-tCP55pYoiJg",
+        "alt": "Modern bedroom with large window and city view"
+      }
+    ],
+    "industrial-loft-brooklyn": [
+      {
+        "url": "https://images.unsplash.com/photo-1505873242700-f289a29e1e0f?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/industrial-loft-with-dining-area-s95oB2n9jng",
+        "alt": "Industrial loft with a dining area"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1768413292179-d958b344f1d4?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/modern-kitchen-with-loft-and-staircase-HBJzUF3kwts",
+        "alt": "Modern kitchen with loft and staircase"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1739131936348-aa227601f140?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-city-street-filled-with-traffic-next-to-tall-buildings-Rv9Dc_O-kqk",
+        "alt": "A city street filled with traffic next to tall buildings"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1626186125004-ec7bbc4fbd00?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/brown-and-black-wooden-bench-6EmeomFfIxo",
+        "alt": "Brown and black wooden bench"
+      }
+    ],
+    "brick-flat-austin": [
+      {
+        "url": "https://images.unsplash.com/photo-1759264244827-1dde5bee00a5?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/modern-living-room-with-green-sofa-and-brick-wall-ojLOdyLG_as",
+        "alt": "Living room with a green sofa and brick wall"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1788888884076-034557496427?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/window-view-of-montreal-brick-buildings-H4sZFCz-FAk",
+        "alt": "A window with a view of brick buildings in Montréal, Canada"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1758521540263-e15a58e64248?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/young-woman-sitting-cross-legged-with-a-mug-IjwpVRDgxt4",
+        "alt": "Young woman sitting cross-legged with a mug"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1758272423677-f8a7df738c1b?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/young-woman-relaxing-in-bed-with-smartphone-and-coffee-UD-TfIuU-pA",
+        "alt": "Young woman relaxing in bed with smartphone and coffee"
+      }
+    ],
+    "studio-capitol-hill-seattle": [
+      {
+        "url": "https://images.unsplash.com/photo-1702014862053-946a122b920d?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-kitchen-with-a-table-and-chairs-in-it-NoPzk4m4jHc",
+        "alt": "A kitchen with a table and chairs in it"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1702014857653-dcea938d51f0?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-room-with-a-bed-and-a-table-with-a-bowl-on-it-dEuvqNbwRuw",
+        "alt": "A room with a bed and a table with a bowl on it"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1702014859908-d48b9b844240?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-room-with-a-table-chairs-and-a-television-hrY-pZqFGyI",
+        "alt": "A room with a table, chairs and a television"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1774311237295-a65a4c1ff38a?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/modern-living-space-with-large-window-overlooking-nature-b6Bs19onFtY",
+        "alt": "Modern living space with large window overlooking nature"
+      }
+    ],
+    "brownstone-back-bay-boston": [
+      {
+        "url": "https://images.unsplash.com/photo-1608845920884-3c88800feebc?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/brown-brick-building-near-green-trees-during-daytime-UpYF6ibFud0",
+        "alt": "Brown brick building near green trees during daytime"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600432154586-27a70e8acbe7?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/grayscale-photo-of-city-buildings-8QuI23CPtUU",
+        "alt": "Grayscale photo of city buildings"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1778600563885-1e99d6599056?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/row-of-historic-red-brick-buildings-under-cloudy-sky-q7WkUF9vlmY",
+        "alt": "Row of historic red brick buildings under cloudy sky"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1783722184434-bcacf23e507f?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/corner-of-a-historic-brick-building-under-a-clear-sky-221nR9N2HDs",
+        "alt": "Corner of a historic brick building under a clear sky"
+      }
+    ],
+    "bungalow-east-nashville": [
+      {
+        "url": "https://images.unsplash.com/photo-1788290486921-99c08d465e13?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/glowing-string-lights-in-garden-Q7S2_chkLCo",
+        "alt": "String lights glowing in a garden with a wooden structure and green trees"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1786550765782-64143480ba12?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/string-lights-in-garden-x3qTIviR4KU",
+        "alt": "String lights hanging between trees in a garden during the day"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1763836215279-444c94da6bb6?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/string-lights-illuminate-a-dark-leafy-background-Qtwcoo-Qj-U",
+        "alt": "String lights illuminate a dark, leafy background"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1780337675943-f63d92324e7b?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/string-lights-illuminate-an-outdoor-patio-with-tables-and-chairs-kzX1Vv6-Wgk",
+        "alt": "String lights illuminate an outdoor patio with tables and chairs"
+      }
+    ],
+    "courtyard-flat-new-orleans": [
+      {
+        "url": "https://images.unsplash.com/photo-1583477716463-9c485c89f6e1?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/brown-and-white-concrete-building-under-blue-sky-during-daytime-Ix7OnZAtyIs",
+        "alt": "Brown and white concrete building under blue sky during daytime"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1456299026498-5441ba4e5284?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/concrete-building-ZkE9tFxs-8s",
+        "alt": "Concrete building"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1594437001318-2b5c7a9c7291?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/brown-and-white-concrete-building-during-daytime-apgxl9QPzsc",
+        "alt": "Brown and white concrete building during daytime"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1591329454801-d6496035c541?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/blue-pink-and-yellow-umbrella-on-gray-concrete-wall-W2X2HxgRTIs",
+        "alt": "Blue pink and yellow umbrella on gray concrete wall"
+      }
+    ],
+    "oceanview-villa-malibu": [
+      {
+        "url": "https://images.unsplash.com/photo-1781795290283-893dd050eeb3?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/modern-white-house-with-large-windows-overlooking-the-ocean-rXq2vzsuLRg",
+        "alt": "Modern white house with large windows over the ocean"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1596178067639-5c6e68aea6dc?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/white-and-brown-wooden-house-near-swimming-pool-during-daytime-jetnF4Xv4h8",
+        "alt": "White and brown wooden house near swimming pool during daytime"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1790276319737-a22b1c378f9b?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/white-wooden-walkway-over-rocky-shore-floDO94czaY",
+        "alt": "A white wooden walkway extending over a rocky shoreline toward the blue ocean"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1785862703160-25734598ad7e?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/infinity-pool-meets-ocean-under-a-colorful-sunset-sky-q398gpsqxeY",
+        "alt": "Infinity pool meets ocean under a colorful sunset sky"
+      }
+    ],
+    "stone-villa-tuscany": [
+      {
+        "url": "https://images.unsplash.com/photo-1619387897882-56cedf760e42?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/stone-villa-on-tuscan-hillside-7VRX3eU46ko",
+        "alt": "Stone villa on a Tuscan hillside"
+      },
+      {
+        "url": "https://images.unsplash.com/12/gladiator.jpg?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/brown-house-surrounded-by-pine-trees-at-hill-under-blow-skies-photo-during-daytime-YcfCXxo7rpc",
+        "alt": "Brown house surrounded by pine trees at hill under blow skies photo during daytime"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1531352294718-fb57e1b4e148?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/pine-trees-on-green-grass-2Z-nRpQLB5I",
+        "alt": "Pine trees on green grass"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1718338561052-bdd1c58ddf6d?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-row-of-trees-in-the-middle-of-a-foggy-field-BawFH-5wr0g",
+        "alt": "A row of trees in the middle of a foggy field"
+      }
+    ],
+    "designer-home-healdsburg": [
+      {
+        "url": "https://images.unsplash.com/photo-1608476037397-7b53ace4c871?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/brown-and-white-concrete-house-near-green-trees-under-blue-sky-during-daytime-lbZG3-qm2ac",
+        "alt": "Modern house among green trees"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1659369486316-ef0c9614024e?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-person-walking-on-a-stone-path-kMIOffRn5uk",
+        "alt": "A person walking on a stone path"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1677494985765-fb583f3bed3e?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-house-in-the-middle-of-a-field-with-mountains-in-the-background-Tyzj-bFwCyw",
+        "alt": "A house in the middle of a field with mountains in the background"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1511706369-c85aa477b8d0?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/gray-concrete-building-surrounded-with-green-fields-during-cloudy-day-gn_7pOkB2fo",
+        "alt": "Gray concrete building surrounded with green fields during cloudy day"
+      }
+    ],
+    "white-villa-mykonos": [
+      {
+        "url": "https://images.unsplash.com/photo-1613977257365-aaae5a9817ff?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/white-concrete-building-with-swimming-pool-y3_AHHrxUBY",
+        "alt": "White villa with a swimming pool"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1603995393909-9af9bb3e7617?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/blue-sea-under-blue-sky-during-daytime-otbAIT2PTmU",
+        "alt": "Blue sea under blue sky during daytime"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1607771412898-a41822394d6a?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/green-palm-tree-near-white-concrete-building-during-daytime-SvBt8jz3CgY",
+        "alt": "Green palm tree near white concrete building during daytime"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1603995394003-43f7cc80525f?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/brown-concrete-building-near-body-of-water-during-daytime-G11WbaShKZ8",
+        "alt": "Brown concrete building near body of water during daytime"
+      }
+    ],
+    "jungle-villa-bali": [
+      {
+        "url": "https://images.unsplash.com/photo-1759372945658-1e9f56e751bd?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/tropical-villa-with-pool-at-twilight-oVnKC7wiQjA",
+        "alt": "Tropical villa with a pool at twilight"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/white-bed-near-glass-sliding-door-fBdlytm6Hp8",
+        "alt": "White bed near glass sliding door"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1718894071528-1108a094cc78?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-bed-room-with-a-neatly-made-bed-and-a-table-TKDF5G6ua1w",
+        "alt": "A bed room with a neatly made bed and a table"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1633820313053-fa030b13ef94?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-lush-green-rice-field-surrounded-by-palm-trees-qMpo9X4hbFc",
+        "alt": "A lush green rice field surrounded by palm trees"
+      }
+    ],
+    "cliff-villa-positano": [
+      {
+        "url": "https://images.unsplash.com/photo-1688156608105-b5466635d092?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-row-of-colorfully-painted-columns-in-a-park-Xy9-AkRU4oc",
+        "alt": "A row of colorfully painted columns in a park"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1759636779280-d74e7e0edf66?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/ornate-ceramic-plates-and-vase-displayed-on-brick-wall-v_p7FTZQXAY",
+        "alt": "Ornate ceramic plates and vase displayed on brick wall"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1716457322141-c0fc3df0bb9d?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-dome-with-a-cross-on-top-of-it-IaQf7jzTgXk",
+        "alt": "A dome with a cross on top of it"
+      }
+    ],
+    "cave-villa-santorini": [
+      {
+        "url": "https://images.unsplash.com/photo-1532234604265-fe9ed3175d5a?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/house-during-starry-night-3I2QWZdTRmA",
+        "alt": "House during starry night"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1637256978722-5f815f0b8574?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-view-of-a-village-on-a-cliff-overlooking-the-ocean--ifO1GCNA1Q",
+        "alt": "A view of a village on a cliff overlooking the ocean"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1637256978569-33924dd9512d?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-window-view-of-a-body-of-water-B9c-xyin1o0",
+        "alt": "A window view of a body of water"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1637256978942-02efd9189c8d?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-view-of-a-body-of-water-from-a-building-WKY8XvFeMxI",
+        "alt": "A view of a body of water from a building"
+      }
+    ],
+    "surf-villa-canggu": [
+      {
+        "url": "https://images.unsplash.com/photo-1692736933760-8a8a9b8c1b6f?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-pool-with-a-table-and-chairs-next-to-it-A7Z5U6LyacA",
+        "alt": "A pool with a table and chairs next to it"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1558347718-b45a32c31c03?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/woman-walking-near-the-pool-XbPG4k-KUwE",
+        "alt": "Woman walking near the pool"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1675657144410-0f601cf4edbd?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/a-group-of-lounge-chairs-sitting-next-to-a-swimming-pool-5YaD_J20DWY",
+        "alt": "A group of lounge chairs sitting next to a swimming pool"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1728048756938-de1ccee0ab15?w=1200&q=80&fm=jpg&fit=crop",
+        "credit": "https://unsplash.com/photos/an-aerial-view-of-a-house-with-a-swimming-pool-UbfL4BUmI4o",
+        "alt": "An aerial view of a house with a swimming pool"
+      }
+    ]
+  },
+  "hosts": {
+    "maya-alvarez": {
+      "url": "https://images.unsplash.com/photo-1685560436288-8683b3697cc4?w=400&h=400&q=80&fm=jpg&fit=crop",
+      "credit": "https://unsplash.com/photos/a-woman-with-blond-hair-and-blue-eyes-looks-into-the-distance-FlS-aGc-jQA",
+      "alt": "A woman with blond hair and blue eyes looks into the distance"
+    },
+    "daniel-okafor": {
+      "url": "https://images.unsplash.com/photo-1485206412256-701ccc5b93ca?w=400&h=400&q=80&fm=jpg&fit=crop",
+      "credit": "https://unsplash.com/photos/man-standing-against-car-vmBik4xv27s",
+      "alt": "Man standing against car"
+    },
+    "claire-whitman": {
+      "url": "https://images.unsplash.com/photo-1663815444066-0e329282c4ae?w=400&h=400&q=80&fm=jpg&fit=crop",
+      "credit": "https://unsplash.com/photos/a-woman-standing-in-front-of-a-body-of-water-ZPOaIbLdj-M",
+      "alt": "A woman standing in front of a body of water"
+    },
+    "kai-nakamura": {
+      "url": "https://images.unsplash.com/photo-1661051830189-54dfcfcf3a0f?w=400&h=400&q=80&fm=jpg&fit=crop",
+      "credit": "https://unsplash.com/photos/a-man-with-a-beard-LLCTFYTgdIM",
+      "alt": "A man with a beard"
+    },
+    "priya-raman": {
+      "url": "https://images.unsplash.com/photo-1650381473833-3e2c74a40fbf?w=400&h=400&q=80&fm=jpg&fit=crop",
+      "credit": "https://unsplash.com/photos/a-black-and-white-photo-of-a-smiling-woman-0bAQcIQog2k",
+      "alt": "A black and white photo of a smiling woman"
+    },
+    "marcus-reed": {
+      "url": "https://images.unsplash.com/photo-1704125865095-ac64097fe658?w=400&h=400&q=80&fm=jpg&fit=crop",
+      "credit": "https://unsplash.com/photos/a-man-sitting-at-a-table-drinking-a-cup-of-coffee-ZkNpCafMIIY",
+      "alt": "A man sitting at a table drinking a cup of coffee"
+    },
+    "giulia-bianchi": {
+      "url": "https://images.unsplash.com/photo-1759786076452-099c90391521?w=400&h=400&q=80&fm=jpg&fit=crop",
+      "credit": "https://unsplash.com/photos/black-and-white-portrait-of-a-young-man-looking-away-gcQw2EGu5sQ",
+      "alt": "Black and white portrait of a young man looking away"
+    },
+    "nikos-papadakis": {
+      "url": "https://images.unsplash.com/photo-1562124638-724e13052daf?w=400&h=400&q=80&fm=jpg&fit=crop",
+      "credit": "https://unsplash.com/photos/smiling-man-wearing-black-collared-top-JQFHdpOKz2k",
+      "alt": "Smiling man wearing black collared top"
+    },
+    "wayan-putra": {
+      "url": "https://images.unsplash.com/photo-1622039683730-65f2bad01ee2?w=400&h=400&q=80&fm=jpg&fit=crop",
+      "credit": "https://unsplash.com/photos/man-in-black-leather-jacket-lb-HH_CeIDo",
+      "alt": "Man in black leather jacket"
+    },
+    "hannah-lindqvist": {
+      "url": "https://images.unsplash.com/photo-1774094135149-bbeeb1767bfa?w=400&h=400&q=80&fm=jpg&fit=crop",
+      "credit": "https://unsplash.com/photos/elderly-woman-with-white-hair-in-blue-patterned-shirt-A7STtLEFyQ8",
+      "alt": "Elderly woman with white hair in blue patterned shirt"
+    }
+  }
+}
